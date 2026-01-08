@@ -93,6 +93,4 @@ Outputs will be written to `output/test.csv`.
 
 ## 👤 Author
 
-Nandini Kosgi  
-LinkedIn: https://www.linkedin.com/in/nandinikosgi/
-
+Nandini Kosgi 
